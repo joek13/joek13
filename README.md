@@ -1,4 +1,1 @@
-## Joe Kerrigan
-Student developer at the University of Virginia.
-
-Visit [my homepage](https://kerrigan.dev).
+www: [kerrigan.dev](https://kerrigan.dev)
